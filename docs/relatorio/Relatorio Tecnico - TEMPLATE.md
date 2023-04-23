@@ -90,64 +90,35 @@ Contribuir para o desenvolvimento de estratégias de marketing para empresas do 
 
 ## Histórias de Usuários
 
-Maria Antonia, 25 anos, estudante de filosofia.
+Maria Antonia, 25 anos, estudante de filosofia:
+Objetivos: encontrar um restaurante bom e barato próximo a sua faculdade.
+Desafios: se mudou recentemente para Belo Horizonte para concluir o curso e não conhece nada da região.
+Como posso ajudá-la: mostrando os melhores e mais baratos restaurantes próximos a faculdade dela segundo as avaliações dos usuários.
 
-Objetivos:
-encontrar um restaurante bom e barato próximo a sua faculdade
+Carlos Gabriel, 63 anos, empresário, casado, 4 filhos:
+Objetivos: encontrar restaurantes agradáveis para um jantar em familia.
+Desafios: Carlos possui muita dificuldade em utilizar dispositivos eletrônicos e não entende como eles funcionam.
+Como posso ajudá-lo: com um aplicativo com uma interface minimalista e intuitiva.
 
-Desafios:
-Se mudou recentemente para Belo Horizonte para concluir o curso e não conhece nada da região.
+Maria Gabriela, 17 anos, estudante:
+Objetivo: encontrar um restaurante que possua pratos veganos no cardápio.
+Desafios: encontrar um restaurante barato que caiba no seu orçamento.
+Como posso ajuda-la: através do filtro de preço e de restrições alimentares.
 
-Como posso ajudá-la:
-mostrando os melhores e mais baratos restaurantes próximos a faculdade dela segundo as avaliações dos usuários
+João Gabriel, 23 anos, Uber:
+Objetivos:  encontrar um restaurante que ofereça delivery e drive thru.
+Desafios: baixo orçamento.
+Como posso ajudá-lo: através do filtro que mostre os restaurantes com delivery ou opção de drive thru.
 
+Carla Souza, 44 anos, Advogada, cadeirante:
+Objetivo: encontrar um restaurante que possua um ambiente agradavel.
+Desafio: Carla possui uma deficiência que a impossibilita de andar.
+Como posso ajudá-la: filtrando restaurantes com opções de acessibilidade.
 
-Carlos Gabriel, 63 anos, empresário, casado, 4 filhos
-
-Objetivos: encontrar restaurantes agradáveis para um jantar em familia
-
-Desafios: Carlos possui muita dificuldade em utilizar dispositivos eletrônicos e não entende como eles funcionam
-
-como posso ajudá-lo: com um aplicativo com uma interface minimalista e intuitiva
-
-
-
-Maria Gabriela, 17 anos, estudante
-
-Objetivo: encontrar um restaurante que possua pratos veganos no cardápio
-
-desafios: encontrar um restaurante barato que caiba no seu orçamento
-
-como posso ajuda-la: atraves do filtro de preço e de restrições alimentares
-
-
-
-João Gabriel, 23 anos, Uber
-
-Objetivos:  encontrar um restaurante que ofereça delivery e drive thru
-
-desafios: baixo orçamento
-como posso ajudá-lo: através do filtro que mostre os restaurantes com delivery ou opção de drive thru
-
-
-
-Carla Souza, 44 anos, Advogada, cadeirante
-
-Objetivo: encontrar um restaurante que possua um ambiente agradavel,
-Desafio: Carla possui uma deficiência que a impossibilita de andar
-Como posso ajudá-la: filtrando restaurantes com opções de acessibilidade
-
-
-
-Pedro Maia, 30 anos, Analista de sistemas
-
-objetivos: pedro busca achar algum lugar que ofereça café da manhã
-Desafios: pedro não possui automóveis portanto precisa ser próximo a sua casa ou trabalho
-como posso ajudá-lo: através do filtro de distância e de café da manhã
-
-
-
-
+Pedro Maia, 30 anos, Analista de sistemas:
+Objetivos: pedro busca achar algum lugar que ofereça café da manhã.
+Desafios: pedro não possui automóveis portanto precisa ser próximo a sua casa ou trabalho.
+Como posso ajudá-lo: através do filtro de distância e de café da manhã.
 
 ## Requisitos
 
