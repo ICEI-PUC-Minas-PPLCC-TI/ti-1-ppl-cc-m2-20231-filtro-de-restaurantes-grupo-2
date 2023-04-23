@@ -51,7 +51,7 @@ Ciências da Computação
 
 
 # Introdução
-
+texto??
 ## Problema
 
   O problema que este estudo pretende solucionar é a dificuldade que os usuários enfrentam ao buscar um restaurante que atenda às suas necessidades específicas. A grande variedade de opções disponíveis pode ser confusa e, muitas vezes, as informações disponíveis sobre cada estabelecimento são limitadas ou imprecisas. Além disso, cada usuário tem suas próprias preferências, restrições alimentares e orçamento disponível, o que torna a escolha ainda mais desafiadora. Com base nas estratégias ligadas à Gestão de Branding, este estudo apresenta uma abordagem abrangente e atualizada sobre como planejar e executar uma experiência de busca de restaurantes bem-sucedida.
