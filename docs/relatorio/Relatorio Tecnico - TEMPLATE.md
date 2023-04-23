@@ -87,7 +87,7 @@ Contribuir para o desenvolvimento de estratégias de marketing para empresas do 
 
 ## Personas, Empatia e Proposta de Valor
 
-C:\Users\Usuario\Downloads\image (1) (1).png
+
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
