@@ -4,8 +4,8 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 
 ## Alunos integrantes da equipe
 
--Clara Araújo Franco
--Izabella Romano Bezerra Seabra
+*Clara Araújo Franco
+*Izabella Romano Bezerra Seabra
 -João Victor Romano Bezerra Seabra
 -João Victor Silluzio Ferreira
 -Pedro Guimarães Alves Freitas
