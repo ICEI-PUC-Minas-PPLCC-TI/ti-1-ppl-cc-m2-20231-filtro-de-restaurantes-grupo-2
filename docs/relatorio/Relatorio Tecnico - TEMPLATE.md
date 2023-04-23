@@ -87,26 +87,67 @@ Contribuir para o desenvolvimento de estratégias de marketing para empresas do 
 
 ## Personas, Empatia e Proposta de Valor
 
-
+C:\Users\Usuario\Downloads\image (1) (1).png
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+Maria Antonia, 25 anos, estudante de filosofia.
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+Objetivos:
+encontrar um restaurante bom e barato próximo a sua faculdade
 
-> Apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> funcionais e não funcionais da sua aplicação. Se possível, agrupe as
-> histórias de usuário por contexto, para facilitar consultas
-> recorrentes à essa parte do documento.
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
+Desafios:
+Se mudou recentemente para Belo Horizonte para concluir o curso e não conhece nada da região.
+
+Como posso ajudá-la:
+mostrando os melhores e mais baratos restaurantes próximos a faculdade dela segundo as avaliações dos usuários
+
+
+Carlos Gabriel, 63 anos, empresário, casado, 4 filhos
+
+Objetivos: encontrar restaurantes agradáveis para um jantar em familia
+
+Desafios: Carlos possui muita dificuldade em utilizar dispositivos eletrônicos e não entende como eles funcionam
+
+como posso ajudá-lo: com um aplicativo com uma interface minimalista e intuitiva
+
+
+
+Maria Gabriela, 17 anos, estudante
+
+Objetivo: encontrar um restaurante que possua pratos veganos no cardápio
+
+desafios: encontrar um restaurante barato que caiba no seu orçamento
+
+como posso ajuda-la: atraves do filtro de preço e de restrições alimentares
+
+
+
+João Gabriel, 23 anos, Uber
+
+Objetivos:  encontrar um restaurante que ofereça delivery e drive thru
+
+desafios: baixo orçamento
+como posso ajudá-lo: através do filtro que mostre os restaurantes com delivery ou opção de drive thru
+
+
+
+Carla Souza, 44 anos, Advogada, cadeirante
+
+Objetivo: encontrar um restaurante que possua um ambiente agradavel,
+Desafio: Carla possui uma deficiência que a impossibilita de andar
+Como posso ajudá-la: filtrando restaurantes com opções de acessibilidade
+
+
+
+Pedro Maia, 30 anos, Analista de sistemas
+
+objetivos: pedro busca achar algum lugar que ofereça café da manhã
+Desafios: pedro não possui automóveis portanto precisa ser próximo a sua casa ou trabalho
+como posso ajudá-lo: através do filtro de distância e de café da manhã
+
+
+
+
 
 ## Requisitos
 
