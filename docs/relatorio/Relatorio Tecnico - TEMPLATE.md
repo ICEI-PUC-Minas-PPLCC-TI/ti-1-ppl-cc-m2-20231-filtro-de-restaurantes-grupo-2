@@ -86,7 +86,7 @@ Contribuir para o desenvolvimento de estratégias de marketing para empresas do 
   Nesta parte do documento, será apresentada a especificação do projeto de um site de avaliação de restaurantes. Serão utilizadas técnicas e ferramentas como análise de requisitos, mapa de empatia e de proposta de valor, além da enumeração de requisitos funcionais e não funcionais com base nas histórias de usuário. Também serão discutidas as restrições do projeto, como prazo e recursos disponíveis. Por fim, será apresentado um esboço da arquitetura do sistema, com os principais componentes e suas interações.
 
 ## Personas, Empatia e Proposta de Valor
-![ti 1](imagem/ti 1) 
+![ti 1](images/ti 1) 
 
 ## Histórias de Usuários
 
