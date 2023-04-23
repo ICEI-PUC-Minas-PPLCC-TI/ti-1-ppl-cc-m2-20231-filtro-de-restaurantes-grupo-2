@@ -87,15 +87,35 @@ Contribuir para o desenvolvimento de estratégias de marketing para empresas do 
 
 ## Personas, Empatia e Proposta de Valor
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Maria Antonia, 25 anos, estudante de filosofia.
 
+Objetivos:
+encontrar um restaurante bom e barato proximo a sua faculdade
 
-> Relacione as personas identificadas no seu projeto, os respectivos mapas de empatia e 
-> mapas da proposta de valor. Lembre-se que você deve ser enumerar e descrever precisamente 
-> e de forma personalizada todos os principais envolvidos com a solução almeja. 
-> 
-> Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
+Desafios:
+Se mudou recentemente para Belo Horizonte para concluir o curso e não conhece nada da região.
+
+Como posso ajudala:
+mostrando os melhores e mais baratos restaurantes proximos a faculdade dela segundo as avaliaçoes dos usuarios
+
+Proposta de valor:
+Oferecemos a Maria Antonia uma lista personalizada dos melhores restaurantes próximos à sua faculdade, com base nas avaliações dos usuários e seus preços acessíveis. Com nossas recomendações, ela pode economizar tempo e dinheiro na busca por um local para comer e desfrutar de refeições deliciosas.
+
+Mapa de empatia:
+O que a Maria Antonia pensa e sente?
+Ela está se sentindo perdida e insegura sobre onde encontrar um restaurante bom e barato próximo à sua faculdade em Belo Horizonte.
+O que ela ouve?
+Ela pode ter ouvido recomendações de amigos ou familiares, mas ainda não se sente confiante em suas escolhas.
+O que ela vê?
+Maria Antonia vê muitas opções de restaurantes na região, mas não tem informações suficientes para decidir onde ir.
+O que ela diz e faz?
+Ela está buscando ativamente por opções de restaurantes, lendo avaliações online e pedindo recomendações, mas ainda não encontrou um lugar que atenda suas expectativas.
+Quais são suas dores?
+Maria Antonia está preocupada em encontrar um restaurante que seja acessível em termos de preço, mas que também ofereça boa comida e ambiente agradável.
+Quais são seus ganhos?
+Ela gostaria de encontrar um restaurante que se torne seu local favorito para comer, oferecendo uma experiência agradável e econômica.
+Com base no mapa de empatia, podemos concluir que Maria Antonia precisa de uma solução que ofereça confiança em suas escolhas, economia de tempo e dinheiro, e satisfação em encontrar um restaurante agradável e acessível. A lista personalizada de restaurantes que oferecemos atende a todas essas necessidades
+
 >
 > **Links Úteis**:
 > - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
