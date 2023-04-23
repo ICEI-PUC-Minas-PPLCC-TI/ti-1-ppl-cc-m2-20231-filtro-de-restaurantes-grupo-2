@@ -1,21 +1,19 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Cheff Mustache
 
-`CURSO` 
+`CURSO`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Ciências da Computação
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
-> Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+- Clara Araújo Franco
+- Izabella Romano Bezerra Seabra
+- João Victor Romano Bezerra Seabra
+- João Victor Silluzio Ferreira
+- Pedro Guimarães Alves Freitas
 
 # Estrutura do Documento
 
@@ -56,79 +54,36 @@
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+  O problema que este estudo pretende solucionar é a dificuldade que os usuários enfrentam ao buscar um restaurante que atenda às suas necessidades específicas. A grande variedade de opções disponíveis pode ser confusa e, muitas vezes, as informações disponíveis sobre cada estabelecimento são limitadas ou imprecisas. Além disso, cada usuário tem suas próprias preferências, restrições alimentares e orçamento disponível, o que torna a escolha ainda mais desafiadora. Com base nas estratégias ligadas à Gestão de Branding, este estudo apresenta uma abordagem abrangente e atualizada sobre como planejar e executar uma experiência de busca de restaurantes bem-sucedida.
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+  Os objetivos deste estudo incluem a análise de diferentes filtros disponíveis em aplicativos de busca de restaurantes, como tipo de cozinha, preço, localização, acessibilidade e outras características relevantes. Com base nessas informações, será possível avaliar quais filtros são mais úteis para os usuários e como eles podem ser aprimorados para tornar a experiência de busca mais eficiente e satisfatória. Além disso, o estudo também buscará identificar padrões e tendências no comportamento dos usuários ao buscar restaurantes, a fim de entender melhor suas preferências e necessidades. Em resumo, este estudo visa ajudar os usuários a tomar decisões informadas ao escolher um restaurante e consequentemente auxiliar empresas do ramo gastronômico a oferecer uma experiência de busca mais eficaz e satisfatória para seus clientes.
 
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
-> 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Objetivos Gerais:
+O objetivo geral deste estudo é analisar a eficácia dos filtros de restaurantes disponíveis em aplicativos de busca. O estudo busca entender como os usuários interagem com essas ferramentas e como elas podem ser aprimoradas para tornar a experiência de busca mais satisfatória e eficiente. 
+
+Objetivos Específicos:
+Identificar os diferentes filtros disponíveis em aplicativos de busca, incluindo tipo de cozinha, preço, localização, avaliações, acessibilidade, entre outros.
+Avaliar a eficácia de cada filtro na ajuda aos usuários a encontrar restaurantes que atendam às suas necessidades e preferências.
+Investigar a importância dos filtros na decisão dos usuários em escolher um determinado restaurante, bem como a influência das avaliações de outros usuários na decisão de escolha.
+Analisar os padrões e tendências de comportamento dos usuários ao buscar restaurantes, incluindo horários de busca, frequência de uso, tipos de filtros mais utilizados, entre outros.
+Propor melhorias nos filtros existentes e sugestões de novos filtros para tornar a experiência de busca mais satisfatória e eficiente, considerando as necessidades e preferências dos usuários.
+Contribuir para o desenvolvimento de estratégias de marketing para empresas do ramo gastronômico baseadas em uma análise aprofundada dos comportamentos e preferências dos usuários ao buscar restaurantes, incluindo sugestões de aprimoramento dos serviços oferecidos pelas empresas.
+
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+  A justificativa para realizar um estudo sobre filtros de restaurantes é a crescente demanda por ferramentas digitais que facilitem a escolha de lugares para comer fora de casa. Além disso, com a popularização dos aplicativos de delivery, é importante compreender como os usuários interagem com essas plataformas e como a experiência de busca pode ser otimizada. É importante reconhecer que escolher um restaurante que atenda às necessidades específicas de cada usuário pode ser um processo árduo e nem sempre bem-sucedido, especialmente se não forem consideradas as ferramentas adequadas.
 
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+  Tendo em vista que, o site terá restaurantes de Belo Horizonte, (MG), o público-alvo desse aplicativo serão os moradores e visitantes da cidade que buscam por uma experiência gastronômica diversificada e de qualidade. O público-alvo inclui pessoas de diferentes faixas etárias, classes sociais e estilos de vida, que têm interesse em conhecer os restaurantes na cidade, com as especificações desejadas por cada cliente. Além disso, o público-alvo também pode incluir turistas que visitam a cidade e procuram por experiências gastronômicas locais. O aplicativo pode ser direcionado especialmente para aqueles que valorizam a praticidade na busca de restaurantes em Belo Horizonte.
 
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
- 
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+  Nesta parte do documento, será apresentada a especificação do projeto de um site de avaliação de restaurantes. Serão utilizadas técnicas e ferramentas como análise de requisitos, mapa de empatia e de proposta de valor, além da enumeração de requisitos funcionais e não funcionais com base nas histórias de usuário. Também serão discutidas as restrições do projeto, como prazo e recursos disponíveis. Por fim, será apresentado um esboço da arquitetura do sistema, com os principais componentes e suas interações.
 
 ## Personas, Empatia e Proposta de Valor
 
@@ -190,38 +145,23 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-
-
+|RF-001|Os usuários devem ser capazes de pesquisar restaurantes por localização, tipo de cozinha, preço, avaliação e acessibilidade.| ALTA | 
+|RF-002|Os usuários devem ser capazes de visualizar informações sobre cada restaurante, incluindo fotos, horário de funcionamento, endereço e avaliação.| ALTA |
+|RF-003|O site deve permitir que os usuários façam comentários e avaliações dos restaurantes que visitaram.| MÉDIA | 
+|RF-004|O site deve ser responsivo e ter um design atraente, minimalista e fácil de usar.| MÉDIA |
+|RF-005|Os usuários devem ser capazes de salvar seus restaurantes favoritos para acesso fácil e rápido no futuro.| BAIXA | 
+|RF-006|O site deve incluir um sistema de recomendação que sugere restaurantes com base nas preferências do usuário.| BAIXA |
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-> 
-> **Links Úteis**:
-> 
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
+|RNF-001|O site deve ser compatível com diferentes dispositivos e navegadores.| ALTA | 
+|RNF-002|O site deve ser seguro e protegido contra ataques maliciosos.| ALTA | 
+|RNF-003|O site deve estar em conformidade com as regulamentações de proteção de dados e privacidade.| ALTA |
+|RNF-004|O site deve ter alta disponibilidade e ser capaz de lidar com picos de tráfego |  MÉDIA |
+|RNF-005|O site deve ser fácil de manter e atualizar.| MÉDIA |
+|RNF-006|O site deve ter um tempo de carregamento rápido e ser otimizado para SEO.| BAIXA|
+|RNF-007|O site deve ter um sistema de backup regular para evitar a perda de dados.| BAIXA|
 
 ## Restrições
 
@@ -231,15 +171,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
-
-
-> Enumere as restrições à sua solução. Lembre-se de que as restrições
-> geralmente limitam a solução candidata.
-> 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
+|03| O projeto não pode ser de dífil entendimento para o usuário|
+|04| As informações a respeito dos restaurantes devem ser verídicas|
 
 # Projeto de Interface
 
