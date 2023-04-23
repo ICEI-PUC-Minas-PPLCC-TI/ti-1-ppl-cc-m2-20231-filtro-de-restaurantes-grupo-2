@@ -86,34 +86,34 @@ Contribuir para o desenvolvimento de estratégias de marketing para empresas do 
   Nesta parte do documento, será apresentada a especificação do projeto de um site de avaliação de restaurantes. Serão utilizadas técnicas e ferramentas como análise de requisitos, mapa de empatia e de proposta de valor, além da enumeração de requisitos funcionais e não funcionais com base nas histórias de usuário. Também serão discutidas as restrições do projeto, como prazo e recursos disponíveis. Por fim, será apresentado um esboço da arquitetura do sistema, com os principais componentes e suas interações.
 
 ## Personas, Empatia e Proposta de Valor
-![ti 1](docs/relatorio/images/ti 1)
+![ti 1](images/ti 1) 
 
 ## Histórias de Usuários
 
-Maria Antonia, 25 anos, estudante de filosofia:  return
-Objetivos: encontrar um restaurante bom e barato próximo a sua faculdade.  return
-Desafios: se mudou recentemente para Belo Horizonte para concluir o curso e não conhece nada da região.  return
-Como posso ajudá-la: mostrando os melhores e mais baratos restaurantes próximos a faculdade dela segundo as avaliações dos usuários.  return
+Maria Antonia, 25 anos, estudante de filosofia: <br/>
+Objetivos: encontrar um restaurante bom e barato próximo a sua faculdade.<br/>
+Desafios: se mudou recentemente para Belo Horizonte para concluir o curso e não conhece nada da região.<br/>
+Como posso ajudá-la: mostrando os melhores e mais baratos restaurantes próximos a faculdade dela segundo as avaliações dos usuários.<br/>
 
-Carlos Gabriel, 63 anos, empresário, casado, 4 filhos:  return
-Objetivos: encontrar restaurantes agradáveis para um jantar em familia.  return
-Desafios: Carlos possui muita dificuldade em utilizar dispositivos eletrônicos e não entende como eles funcionam.  return
-Como posso ajudá-lo: com um aplicativo com uma interface minimalista e intuitiva.  return
+Carlos Gabriel, 63 anos, empresário, casado, 4 filhos:<br/>
+Objetivos: encontrar restaurantes agradáveis para um jantar em familia.<br/>
+Desafios: Carlos possui muita dificuldade em utilizar dispositivos eletrônicos e não entende como eles funcionam.<br/>
+Como posso ajudá-lo: com um aplicativo com uma interface minimalista e intuitiva.<br/>
 
-Maria Gabriela, 17 anos, estudante:  return
-Objetivo: encontrar um restaurante que possua pratos veganos no cardápio. return
-Desafios: encontrar um restaurante barato que caiba no seu orçamento.  return
-Como posso ajuda-la: através do filtro de preço e de restrições alimentares.  return
+Maria Gabriela, 17 anos, estudante:<br/>
+Objetivo: encontrar um restaurante que possua pratos veganos no cardápio. <br/>
+Desafios: encontrar um restaurante barato que caiba no seu orçamento.<br/>
+Como posso ajuda-la: através do filtro de preço e de restrições alimentares.<br/>
 
-João Gabriel, 23 anos, Uber:  return
-Objetivos:  encontrar um restaurante que ofereça delivery e drive thru.  return
-Desafios: baixo orçamento.  return
-Como posso ajudá-lo: através do filtro que mostre os restaurantes com delivery ou opção de drive thru.  return
+João Gabriel, 23 anos, Uber:<br/>
+Objetivos:  encontrar um restaurante que ofereça delivery e drive thru.<br/>
+Desafios: baixo orçamento.<br/>
+Como posso ajudá-lo: através do filtro que mostre os restaurantes com delivery ou opção de drive thru.<br/>
 
-Carla Souza, 44 anos, Advogada, cadeirante:  return
-Objetivo: encontrar um restaurante que possua um ambiente agradavel.  return
-Desafio: Carla possui uma deficiência que a impossibilita de andar.  return
-Como posso ajudá-la: filtrando restaurantes com opções de acessibilidade.  return
+Carla Souza, 44 anos, Advogada, cadeirante:<br/>
+Objetivo: encontrar um restaurante que possua um ambiente agradavel.<br/>
+Desafio: Carla possui uma deficiência que a impossibilita de andar.<br/>
+Como posso ajudá-la: filtrando restaurantes com opções de acessibilidade.<br/>
 
 Pedro Maia, 30 anos, Analista de sistemas:<br/>
 Objetivos: pedro busca achar algum lugar que ofereça café da manhã.<br/>
