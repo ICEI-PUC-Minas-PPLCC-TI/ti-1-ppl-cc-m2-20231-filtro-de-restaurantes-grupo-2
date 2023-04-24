@@ -87,8 +87,6 @@ Contribuir para o desenvolvimento de estratégias de marketing para empresas do 
 
 ## Personas, Empatia e Proposta de Valor
 >![image](images/persona1)
->![image](images/persona1(1))
->![image](images/persona3)
 
 ## Histórias de Usuários
 
@@ -229,7 +227,11 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Pesquisas de de restaurantes e tipos e comida que irão contribuir com o site. - João Romano<br/>
+Avaliar a eficácia de cada filtro. - Izabella Romano<br/>
+Analisar e registrar  os padrões e tendências de comportamento dos usuários ao buscar restaurantes. - Pedro Guimarães<br/>
+Propor melhorias com visão geral.(ajudando em todos) - João Silluzio<br/>
+Desenvolver estratégias de marketing.  - Clara Fraco<br/>
 
 > Apresente a divisão de papéis e tarefas entre os membros do grupo.
 >
