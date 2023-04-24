@@ -163,7 +163,10 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Projeto de Interface
 
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
+  Primeiramente nossa empresa optou por usar o aplicativo Discord para nossa gestão de projetos e comnunicação, por conta da sua versatilidade. La criamos uma tabela de nominação onde podemos colocar o que ja foi feito e o que estamos fazendo no momento, podendo até mesmo colocar o que ja foram feitos anteriormente por alguém da nossa equipe. Sem contar que grande parte do nosso time ja havia tido contato com a plataforma antes, tendo um bom conhecimento prévio antes do aplicativo ser implementada na gestão.<br/>
+  Decidimos utilizar o Figma (para Wire Frame) por diversos fatore, sendo eles: Sua facilidade de teste de Wire frames sem código, compactação de criação sem perder a qualidade e facilidade, bastante intuitivo e prático.<br/>
+  Decidimos utilizar o Miro (Desing  Thinking.) dadas as seguintes condições: O professor havia explicado como utilizar, disponibilizou o modelo do projeto e é bastante intuitivo. <br/>
+  Utilizamos o google forms (Pesquisas) para fazer a pesquisa com o publico alvo, por apresentar uma facilidade na hora de responder e de fazer essa coletânea. E utilizamos o google; Ifood; Happen e Uber eats para a pesquisa qualitativa dos restaurantes.<br/>
 
 > Apresente as principais interfaces da solução. Discuta como 
 > foram elaboradas de forma a atender os requisitos funcionais, não
