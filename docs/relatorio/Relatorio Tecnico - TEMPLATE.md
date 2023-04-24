@@ -87,7 +87,7 @@ Contribuir para o desenvolvimento de estratégias de marketing para empresas do 
 
 ## Personas, Empatia e Proposta de Valor
 >![image (1)](https://user-images.githubusercontent.com/130852195/233873744-04fbec7c-3f92-4d45-9fef-d053a7e7c36c.png)
-
+![image](https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m2-20231-filtro-de-restaurantes-grupo 2/blob/26d54d2fb5cf7b64a4f78a9d7c4f118403577624/docs/relatorio/images/persona1)
 ## Histórias de Usuários
 
 Maria Antonia, 25 anos, estudante de filosofia: <br/>
