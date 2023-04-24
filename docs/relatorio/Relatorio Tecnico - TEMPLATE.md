@@ -86,8 +86,12 @@ Contribuir para o desenvolvimento de estratégias de marketing para empresas do 
   Nesta parte do documento, será apresentada a especificação do projeto de um site de avaliação de restaurantes. Serão utilizadas técnicas e ferramentas como análise de requisitos, mapa de empatia e de proposta de valor, além da enumeração de requisitos funcionais e não funcionais com base nas histórias de usuário. Também serão discutidas as restrições do projeto, como prazo e recursos disponíveis. Por fim, será apresentado um esboço da arquitetura do sistema, com os principais componentes e suas interações.
 
 ## Personas, Empatia e Proposta de Valor
->![image](images/persona1)
-
+>![image](images/Izabella.png.jpg)
+>![image](images/Joao.png.jpg)
+>![image](images/Pedro.png.jpg)
+>![image](images/Eu.png.jpg)
+>![image](images/Nome.png.jpg)
+>![image](images/Clara.png.jpg)
 ## Histórias de Usuários
 
 Maria Antonia, 25 anos, estudante de filosofia: <br/>
@@ -209,6 +213,22 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
   Nossa empresa optou por usar o aplicativo Discord para nossa gestão de projetos, por conta da sua versatilidade. La criamos uma tabela de nominação onde podemos colocar o que ja foi feito e o que estamos fazendo no momento, podendo até mesmo colocar o que ja foram feitos anteriormente por alguém da nossa equipe. Sem contar que grande parte do nosso time ja havia tido contato com a plataforma antes, tendo um bom conhecimento prévio antes do aplicativo ser implementada na gestão.
 
+> Nesta parte do documento, você deve apresentar a metodologia 
+> adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
+> a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a
+> gestão de configuração do projeto via GitHub.
+>
+> Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido
+> pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
+> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
+> da solução.
+> 
+> **Links Úteis**:
+> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
+> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
+> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
+> - [Tutorial Slack](https://slack.com/intl/en-br/)
+
 ## Divisão de Papéis
 
 Pesquisas de de restaurantes e tipos e comida que irão contribuir com o site. - João Romano<br/>
@@ -216,6 +236,13 @@ Avaliar a eficácia de cada filtro. - Izabella Romano<br/>
 Analisar e registrar  os padrões e tendências de comportamento dos usuários ao buscar restaurantes. - Pedro Guimarães<br/>
 Propor melhorias com visão geral.(ajudando em todos) - João Silluzio<br/>
 Desenvolver estratégias de marketing.  - Clara Fraco<br/>
+
+> Apresente a divisão de papéis e tarefas entre os membros do grupo.
+>
+> **Links Úteis**:
+> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
+> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+
 
 ## Ferramentas
 
