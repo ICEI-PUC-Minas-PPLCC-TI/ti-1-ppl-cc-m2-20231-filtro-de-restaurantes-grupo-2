@@ -207,7 +207,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+  Nossa empresa optou por usar o aplicativo Discord para nossa gestão de projetos, por conta da sua versatilidade. La criamos uma tabela de nominação onde podemos colocar o que ja foi feito e o que estamos fazendo no momento, podendo até mesmo colocar o que ja foram feitos anteriormente por alguém da nossa equipe. Sem contar que grande parte do nosso time ja havia tido contato com a plataforma antes, tendo um bom conhecimento prévio antes do aplicativo ser implementada na gestão.
 
 > Nesta parte do documento, você deve apresentar a metodologia 
 > adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
