@@ -87,6 +87,8 @@ Contribuir para o desenvolvimento de estratégias de marketing para empresas do 
 
 ## Personas, Empatia e Proposta de Valor
 >![image](images/persona1)
+>![image](images/persona1(1))
+>![image](images/persona3)
 
 ## Histórias de Usuários
 
