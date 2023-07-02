@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Cheff Moustache - Login</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <div class="header">
+    <div class="logo">
+      <img src="Cheff.png" alt="Logo">
+      <h2>Cheff Moustache</h2>
+    </div>
+    <div class="dark-mode-toggle">
+      <input type="checkbox" id="dark-mode-switch" onclick="toggleDarkMode()">
+      <label for="dark-mode-switch"></label>
+    </div>
+  </div>
+  <div class="container">
+    <h1>Login</h1>
+                      
+      <div class="form-group">
+        <label for="username">Username</label>
+        <input type="text" id="username" placeholder="Enter your username" required>
+      </div>
+      <div class="form-group">
+        <label for="password">Password</label>
+        <input type="password" id="password" placeholder="Enter your password" required>
+      </div>
+      <button class="learn-more" onclick="login()">
+        <span class="circle" aria-hidden="true">
+        <span class="icon arrow"></span>
+        </span>
+        <span class="button-text">Entrar</span>
+      </button> 
+    </form>
+    <p class="signup-link">Don't have an account? <a href="signup.html">Sign up</a></p>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
