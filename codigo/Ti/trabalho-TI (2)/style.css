@@ -1,0 +1,45 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+#fundo 
+{
+	background-image: url("ff.jpgg");
+	background-size: cover;
+}
+h1{
+  font-size: 5px;
+}
+#weather-widget {
+  display: inline-block;
+  border: 1px solid #ccc;
+  padding: 10px;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  color: white !important;
+}
+
+#weather-widget h2 {
+  font-size: 18px;
+  margin-bottom: 10px;
+  color: white !important;
+}
+
+#weather-widget .weather-info {
+  margin-bottom: 5px;
+}
+
+#weather-widget .weather-icon {
+  width: 50px;
+  height: 50px;
+}
+#teste{
+  width: 50px;
+  height: 40px;
+}
+#footer {
+  background-color: #050544;
+  padding: 10px;
+  text-align: center;
+}
