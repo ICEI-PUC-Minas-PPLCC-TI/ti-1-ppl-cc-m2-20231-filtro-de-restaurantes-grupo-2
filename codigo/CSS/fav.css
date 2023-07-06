@@ -1,0 +1,18 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  #cabecalho{
+    text-align: center;
+  }
+  
+  #fundo 
+  {
+      background-image: url("Imagens/ff.jpg");
+      background-size: cover;
+  
+  }
+  #cartao
+  {
+     background-color: rgba(255, 255, 255, 0.85);
+  }

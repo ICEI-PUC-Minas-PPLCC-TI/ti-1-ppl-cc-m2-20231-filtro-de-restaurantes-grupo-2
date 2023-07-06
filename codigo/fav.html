@@ -1,0 +1,97 @@
+
+
+
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>fav</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+<style>
+    html {
+    height: 100%;
+    width: 100%;
+  }
+  #cabecalho{
+    text-align: center;
+  }
+  
+  body
+  {
+      background-image: url("Imagens/ff.jpg");
+  }
+  #cartao
+  {
+     background-color: rgba(255, 255, 255, 0.85);
+  }
+</style>
+  <script>
+    function exibirRestaurantesFavoritos() {
+      // Passo 1: Recuperar os dados do LocalStorage
+      let dados = localStorage.getItem("restaurantes");
+      dados = JSON.parse(dados);
+
+      // Passo 2: Filtrar os restaurantes com o atributo "favorito" igual a "true"
+      const restaurantesFavoritos = dados.restaurantes.filter(restaurante => restaurante.favorito === "true");
+
+      // Passo 3: Exibir os restaurantes filtrados na página
+      const listaRestaurantes = document.getElementById("listaRestaurantes");
+
+      restaurantesFavoritos.forEach(restaurante => {
+        const li = document.createElement("li");
+        li.textContent = restaurante.nome; // Substitua "nome" pelo atributo correto do restaurante
+        listaRestaurantes.appendChild(li);
+      });
+    }
+
+    // Chame a função quando a página for carregada
+    window.onload = exibirRestaurantesFavoritos;
+  </script>
+
+  <script>
+    
+  </script>
+
+</head>
+<body>
+  <div class="container-fluid">
+   <div class="row">
+     <div id="cabecalho" class="col-12" style="background-color: #050544; color: #FFFFFF;">
+      <h1>Restaurantes Favoritados: </h1>
+    </div>
+ </div>
+ </div>
+
+  <div class="row" id="fundo">
+
+    <div class="mx-auto p-2" style="width: 900px;">
+    <div  id="cartao" class="card">
+      <div class="card-body">
+        <p class="card-text">
+
+
+    
+
+            <div id="favContainer">
+                <ul id="listaRestaurantes">
+                  <!-- A lista de restaurantes favoritos será preenchida aqui -->
+                </ul>
+              </div>
+        
+        
+            <script>
+              window.onload = exibirRestaurantesFavoritos;
+            </script>
+
+          
+        </p>
+      </div>
+    </div>
+  </div>
+    
+  </div>
+
+</body>

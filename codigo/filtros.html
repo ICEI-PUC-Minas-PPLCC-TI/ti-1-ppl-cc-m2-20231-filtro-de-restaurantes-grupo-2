@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Filtrar Restaurantes</title>
+  <link rel="stylesheet" href="CSS/filtro.css">
+</head>
+
+<body>
+  <h1>Filtrar Restaurantes</h1>
+
+  <label for="food-type">Tipo de Culinária:</label>
+  <select id="food-type" onchange="exibirrestaurante()">
+    <option value="todos">Todos</option>
+    <option value="Italiana">Italiana</option>
+    <option value="Mexicana">Mexicana</option>
+    <option value="Japonesa">Japonesa</option>
+    <option value="Árabe">Árabe</option>
+    <option value="Tailandesa">Tailandesa</option>
+    <option value="Francesa">Francesa</option>
+    <option value="Pizzaria">Pizzaria</option>
+    <option value="Espanhola">Espanhola</option>
+    <option value="Brasileira">Brasileira</option>
+    <option value="Mediterrânea">Mediterrânea</option>
+    <option value="Vegetariana">Vegetariana</option>
+    <option value="Coreana">Coreana</option>
+    <option value="Argentina">Argentina</option>
+    <option value="Variada">Variada</option>
+    <option value="Churrascaria">Churrascaria</option>
+    <option value="Indiana">Indiana</option>
+    <option value="Libanesa">Libanesa</option>
+    <option value="Asiática">Asiática</option>
+    <option value="Portuguesa">Portuguesa</option>
+    <option value="Peruana">Peruana</option>
+    <option value="Chinesa">Chinesa</option>
+    <option value="Alemã">Alemã</option>
+    <option value="Grega">Grega</option>
+    <option value="Russa">Russa</option>
+    <option value="Marroquina">Marroquina</option>
+    <option value="Caribenha">Caribenha</option>
+    <option value="Africana">Africana</option>
+    <option value="Australiana">Australiana</option>
+    <option value="Vietnamita">Vietnamita</option>
+    <option value="Polonesa">Polonesa</option>
+    <option value="Espanhola">Espanhola</option>
+    <option value="Turca">Turca</option>
+    <option value="Árabe-Síria">Árabe-Síria</option>
+  </select>
+
+  <label for="price-level">Faixa de Preço:</label>
+  <select id="price-level" onchange="exibirrestaurante()">
+    <option value="todos">Todos</option>
+    <option value="$ (Econômico)">Baixo</option>
+    <option value="$$ (Moderado)">Médio</option>
+    <option value="$$$ (Caro)">Alto</option>
+  </select>
+
+  <label for="Deliveri">Delivery:</label>
+  <select id="Deliveri" onchange="exibirrestaurante()">
+    <option value="todos">Todos</option>
+    <option value="Sim">Sim</option>
+    <option value="Não">Não</option>
+    
+  </select>
+
+  <div class="row justify-content-center" id="restaurantes">
+
+  </div>
+
+  <script src="Javascript/filtro.js"></script>
+</body>
+
+</html>

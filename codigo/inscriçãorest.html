@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Formulário de Inscrição de Restaurante</title>
+  <link rel="stylesheet" type="text/css" href="CSS/cssinscriçãorest.css">
+</head>
+<body>
+  <h1>Formulário de Inscrição de Restaurante</h1>
+
+  <form id="restaurantForm">
+    <label for="restaurantName">Nome do Restaurante:</label>
+    <input type="text" id="restaurantName" required><br>
+
+    <label for="location">Localização (na cidade de Belo Horizonte, MG):</label>
+    <input type="text" id="location" required><br>
+
+    <label for="phone">Telefone:</label>
+    <input type="tel" id="phone" required><br>
+
+    <label for="email">Email:</label>
+    <input type="email" id="email" required><br>
+
+    <label for="cuisine">Tipo de Cozinha ou Especialidade Culinária:</label>
+<select id="cuisine" required>
+  <option value="">Selecione uma opção</option>
+  <option value="italiana">Culinária Italiana</option>
+  <option value="japonesa">Culinária Japonesa</option>
+  <option value="mineira">Culinária Mineira</option>
+  <option value="mexicana">Culinária Mexicana</option>
+  <option value="hamburgeria">Hamburgeria</option>
+  <option value="churrascaria">Churrascaria</option>
+  <option value="doceria">Doceria</option>
+
+</select><br>
+
+    <label for="priceRange">Faixa de Preço ( preço médio dos pratos):</label>
+<select id="priceRange" required>
+  <option value="">Selecione uma opção</option>
+  <option value="baixo">R$25,00 - R$50,00</option>
+  <option value="medio">R$50,00 - R$100,00</option>
+  <option value="alto">R$100,00 - R$150,00</option>
+  <option value="muitoalto">valores acima que R$150,00</option>
+</select><br>
+
+<label for="delivery">Possui Delivery:</label>
+<select id="delivery" required>
+  <option value="">Selecione uma opção</option>
+  <option value="sim">Sim</option>
+  <option value="nao">Não</option>
+</select><br>
+
+    <label for="openingHours">Horário de Funcionamento:</label>
+<input type="text" id="openingHours" placeholder="Ex: 09:00 - 18:00" required>
+
+    <label for="description">Breve Descrição:</label><br>
+    <textarea id="description" required></textarea><br>
+
+    <label for="images">Imagens:</label>
+    <input type="file" id="images" accept="image/*" multiple><br>
+
+    <button type="submit">Enviar</button>
+  </form>
+
+  <script>
+document.getElementById("restaurantForm").addEventListener("submit", function(event) {
+  event.preventDefault();
+
+  var restaurantName = document.getElementById("restaurantName").value;
+  var location = document.getElementById("location").value;
+  var phone = document.getElementById("phone").value;
+  var email = document.getElementById("email").value;
+  var cuisine = document.getElementById("cuisine").value;
+  var priceRange = document.getElementById("priceRange").value;
+  var openingHours = document.getElementById("openingHours").value;
+  var description = document.getElementById("description").value;
+  var delivery = document.getElementById("delivery").value;
+
+  if (!restaurantName || !location || !phone || !email || !cuisine || !priceRange || !description || !delivery || !openingHours) {
+    alert("Por favor, preencha todos os campos corretamente.");
+    return;
+  }
+
+  var formData = {
+    restaurantName: restaurantName,
+    location: location,
+    phone: phone,
+    email: email,
+    cuisine: cuisine,
+    priceRange: priceRange,
+    openingHours: openingHours,
+    description: description,
+    delivery: delivery
+  };
+
+  var jsonData = JSON.stringify(formData);
+
+  console.log(jsonData);
+
+  if (localStorage.getItem('RESTAURANT_DATA') === null) {
+    localStorage.setItem('RESTAURANT_DATA', jsonData);
+  } else {
+    var existingData = JSON.parse(localStorage.getItem('RESTAURANT_DATA'));
+    existingData.push(formData);
+    localStorage.setItem('RESTAURANT_DATA', JSON.stringify(existingData));
+  }
+
+  alert("Inscrição concluída! Obrigado!");
+
+  window.location.href = 'home.html';
+});
+
+  </script>
+</body>
+</html>
